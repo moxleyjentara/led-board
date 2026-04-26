@@ -393,7 +393,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 137.16 84.328 90)
 			(hide yes)
 			(show_name no)
@@ -473,7 +473,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 128.27 82.55 0)
 			(hide yes)
 			(show_name no)
